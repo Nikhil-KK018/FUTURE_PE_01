@@ -7,7 +7,13 @@ AI Website Copy Generator for Local Businesses
 
 ### Objective
 This project demonstrates the use of prompt engineering to generate professional website content for a local business using AI.
-<img width="227" height="172" alt="image" src="https://github.com/user-attachments/assets/8dc0cc13-6b7d-471e-b18c-8afc6843a321" />
+
+## Repository Structure
+- homepage.md
+- services.md
+- cta.md
+- prompts.md
+- output_summary.md
 
 
 ### Business Chosen
